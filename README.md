@@ -1,2 +1,2 @@
 # tutorials
-HTML Tutorials to complete the classes I give
+HTML Tutorials to compliment the classes I give
