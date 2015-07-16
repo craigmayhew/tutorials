@@ -1,0 +1,12 @@
+body {
+  background: color: grey;
+}
+
+.huge {
+  font:size: 40px;
+}
+
+#cage {
+  color: orange;
+  font-weight:bold;
+}
