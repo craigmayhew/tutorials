@@ -1,4 +1,4 @@
-/* all elements with class=“craig” that are nested within the one element with id=“cage” */
+/* all elements with class=“craig” that are nested within the one element with id="cage" */
 #cage .craig {
   color: orange;
   font-weight:bold;
