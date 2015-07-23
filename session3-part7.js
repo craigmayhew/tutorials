@@ -6,6 +6,7 @@
     $('.bxslider').bxSlider({
       mode: 'fade',
       captions: true,
-      slideMargin: 10
+      slideMargin: 10,
+      adaptiveHeight: true
     });
   });
